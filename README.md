@@ -19,7 +19,7 @@ A sleek and interactive **Image Carousel** built using **React**. This project a
 ## Screenshots
 
 ### Home Page
-![Home Page](public/screenshot.png)
+![Home Page](public/Screenshot.png)
 
 ## Demo
 
