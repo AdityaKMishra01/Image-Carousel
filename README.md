@@ -16,6 +16,11 @@ A sleek and interactive **Image Carousel** built using **React**. This project a
 - **Vite**: For fast and optimized development.
 - **CSS**: For styling and animations.
 
+## Screenshots
+
+### Home Page
+![Home Page](public/screenshot.png)
+
 ## Demo
 
 [Live Demo](https://image-carousel-hazel.vercel.app/)
